@@ -1,0 +1,1 @@
+$(call inherit-product, vendor/huawei/y360/y360-vendor-blobs.mk)
